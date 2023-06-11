@@ -20,7 +20,7 @@ ESC ==> Quit the Program
 IMAGE -->   
 
 
-![Game of Life](https://github.com/Aggerio/Game-of-LIfe/blob/Master/img/2023-06-11_15-32.png)
+![Game of Life](https://github.com/Aggerio/Game-of-LIfe/blob/Master/img/2023-06-11_16-13.png)
 
 you can also play with the width and height of the game of life and the screen height and width   
 
