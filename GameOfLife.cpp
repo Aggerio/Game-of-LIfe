@@ -314,8 +314,8 @@ int main() {
 
 #ifdef GAME_LIFE
     ClearBackground(BLACK);
-    DrawText("Conway's Game of Life", 10, 10, 25, GRAY);
-    DrawText(fps.c_str(), WIDTH - 200, 10, 25, RED);
+    DrawText("Conway's Game of Life", 10, 10, 50, GRAY);
+    DrawText(fps.c_str(), WIDTH - 200, 10, 50, RED);
 
     for (int i = 0; i < (int)(WIDTH / SQUARE_SIDE); ++i) {
       for (int j = 0; j < (int)(HEIGHT / SQUARE_SIDE); ++j) {
