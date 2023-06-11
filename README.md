@@ -15,6 +15,7 @@ W A S D ==> up down left right
 R ==> restart the game   
 UP ARROW ==> Zoom in   
 DOWN ARROW ==> Zoom out  
+ESC ==> Quit the Program  
 
 IMAGE -->   
 
