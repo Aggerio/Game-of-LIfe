@@ -13,7 +13,7 @@
 #define HEIGHT 1080
 #define SPEED_2D 10.0f
 #define ZOOM_SPEED 0.01f
-#define SQUARE_SIDE 1
+#define SQUARE_SIDE 10
 
 #define GAME_LIFE
 
